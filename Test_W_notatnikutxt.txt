@@ -1,5 +1,5 @@
 Tu wpisuje tekst, jakis
-np wiersz:
+np. wierysz:
 
 swiatlo swieci gdy ..
 w sumie zawsze jakies swieci.
@@ -8,3 +8,5 @@ bo czas szybko leci
 
 a gdy jest noc
 idz pod koc
+
+dziekuje.
