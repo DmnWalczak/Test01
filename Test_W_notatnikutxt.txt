@@ -1,4 +1,4 @@
-Tu wpiszuje tekst sobie taki jakis
+Tu wpisuje tekst, jakis
 np wiersz:
 
 swiatlo swieci gdy ..
@@ -6,4 +6,5 @@ w sumie zawsze jakies swieci.
 Wiec nie smuc siê
 bo czas szybko leci
 
-dziêkuje.
+a gdy jest noc
+idz pod koc
